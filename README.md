@@ -31,7 +31,7 @@ We don't know what would be the output of the analysis so we are using unsupervi
 
 The elbow curve was preduced below using the K-Means method iterating on k values from 1 to 10.
 
-![Elbow_curve]](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/images/elbow_curve.png)
+![Elbow_curve]](https://github.com/acegal1/Cryptocurrencies/blob/main/images/elbow_curve.png)
 
 
 The best k value appears to be 4 so we would conclude on an output of 4 clusters to categorize the crytocurrencies.
@@ -40,13 +40,13 @@ The best k value appears to be 4 so we would conclude on an output of 4 clusters
 
 3D-Scatter plot with clusters
 
-![3DPLOT](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/images3D-Scatter_plot.png)
+![3DPLOT](https://github.com/acegal1/Cryptocurrencies/blob/main/images3D-Scatter_plot.png)
 
 This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
 
 2D-Scatter plot with clusters
 
-![Scatter_plot](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/images/2D-Scatter_plot.png)
+![Scatter_plot](https://github.com/acegal1/Cryptocurrencies/blob/main/images/2D-Scatter_plot.png)
 
 This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
 
@@ -55,7 +55,7 @@ We can identify the outliers like the unique cryptocurrency in the class #2.
 
 ### Tradable Cryptocurrencies Table
 
-![Crypto Table](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/images/Trabable_Crypto.png)
+![Crypto Table](https://github.com/acegal1/Cryptocurrencies/blob/main/images/Trabable_Crypto.png)
 
 
 # Summary
