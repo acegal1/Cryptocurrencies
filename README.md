@@ -31,7 +31,7 @@ We don't know what would be the output of the analysis so we are using unsupervi
 
 The elbow curve was preduced below using the K-Means method iterating on k values from 1 to 10.
 
-![elbow_curve]](https://github.com/acegal1/Cryptocurrencies/blob/main/images/elbow_curve.png)
+![elbow_curve](https://github.com/acegal1/Cryptocurrencies/blob/main/images/elbow_curve.png)
 
 
 The best k value appears to be 4 so we would conclude on an output of 4 clusters to categorize the crytocurrencies.
