@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+crypto_clustering_starter_code.ipynb
+crypto_data.csv
+
 # C extensions
 *.so
 
